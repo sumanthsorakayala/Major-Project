@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Shopping",
+        "description": "Buy Vegetables",
+        "category": "personal",
+        "completed": false
+    },
+    {
+        "title": "Body Check up",
+        "description": "Go to hospital",
+        "category": "urgent",
+        "completed": false
+    }
+]
